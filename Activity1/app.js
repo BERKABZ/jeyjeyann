@@ -5,9 +5,9 @@ let container = document.getElementById("container")
 
 const data = {
     title: "My Dog",
-    para1: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, dignissimos et voluptatum eligendi dolorum nisi accusamus iure explicabo? Inventore odit omnis delectus dolores, unde pariatur tenetur ut eaque provident voluptas!",
-    title2: "Berber",
-    para2: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, dignissimos et voluptatum eligendi dolorum nisi accusamus iure explicabo? Inventore odit omnis delectus dolores, unde pariatur tenetur ut eaque provident voluptas!.10 ",
+    para1: "The dog is a pet animal. A dog has sharp teeth so that it can eat flesh very easily, it has four legs, two ears, two eyes, a tail, a mouth, and a nose. It is a very clever animal and is very useful in catching thieves. It runs very fast, barks loudly and attacks the strangers.",
+    title2: "BERBER",
+    para2: "Friendly, vicious, adorable, cute, fuzzy, smelly, obedient, loyal, protective, smart, ferocious, muscular, quiet, long, lean, Well chiseled, short, strong, massive, square, clean, lively, high-spirited, shaggy, smooth, wiry, intelligent, obedient, knowledgeable, exhuberant, playful, splendid, faithful ",
     button1: "About Us",
     button2: "About You",
     button3: "Contact Us",

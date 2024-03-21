@@ -7,8 +7,8 @@ let sec1 = document.getElementById('section1')
 let sec2 = document.getElementById('section2')
 
 let obj1 = {
-    title   : "THIS IS MY TITLE",
-    par     : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero eius fugit facilis odit voluptatem provident, fuga asperiores possimus perferendis deserunt perspiciatis, architecto mollitia atque! Debitis, saepe! Sint inventore incidunt sequi.",
+    title   : "JEANNE",
+    par     : "I am a hard-working and driven individual who isn't afraid to face a challenge. I'm passionate with what did.I would describe myself as an open and honest person who doesn't believe in misleading other people and tries to be fair in everything I do.",
     button  : "Contact me",
     img     : "./images/1.jpg"
 }
@@ -17,7 +17,7 @@ const { title, par, button, img } = obj1
 
 let obj2 = {
     image   : "./images/2.jpg",
-    desc    : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero eius fugit facilis odit voluptatem provident, fuga asperiores possimus perferendis deserunt perspiciatis, architecto mollitia atque! Debitis, saepe! Sint inventore incidunt sequi.",
+    desc    : "This is our project during our KKK exhibit",
     button1 : "learn more",
     title2  : "Project Complete"
 }

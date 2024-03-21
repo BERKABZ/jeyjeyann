@@ -4,7 +4,7 @@ const infofunc = (title, par, button) => {
     div.innerHTML = `
         <h1>${title}</h1>
         <p>${par}</p>
-        <button>${button}</button>
+        <button class="btn">${button}</button>
     `
     return div
 }
